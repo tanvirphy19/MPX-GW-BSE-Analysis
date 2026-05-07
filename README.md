@@ -123,7 +123,7 @@ The workflows provided in this repository were developed for reproducible post-p
 If you use these scripts in published work, please cite the associated article and repository DOI.
 
 ```text
-DOI: [To be added after Zenodo deposition]
+DOI: https://doi.org/10.5281/zenodo.20076262
 ```
 
 ---

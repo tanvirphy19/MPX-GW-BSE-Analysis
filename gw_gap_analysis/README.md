@@ -162,7 +162,7 @@ Minor modifications may be required for:
 If you use this workflow in published work, please cite the associated article and repository DOI.
 
 ```text
-DOI: [To be added after Zenodo deposition]
+DOI: https://doi.org/10.5281/zenodo.20076262
 ```
 
 ---

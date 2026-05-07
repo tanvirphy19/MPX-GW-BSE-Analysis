@@ -44,7 +44,7 @@ The workflow performs the following steps automatically:
 
 7. Performs automated linear fitting over moving windows.
 
-8. Selects the optimal fitting region according to the highest coefficient of determination (`R^2`).
+8. Selects the optimal fitting region according to the highest coefficient of determination (R²).
 
 9. Determines the optical onset energy from the intercept of the fitted line with the energy axis.
 
@@ -115,7 +115,7 @@ Contains:
 
 * optical onset energy,
 * first bright excitonic peak,
-* fitting quality (`R^2`),
+* fitting quality (R²),
 * maximum absorption intensity.
 
 ---
@@ -178,7 +178,7 @@ DOI: [To be added after Zenodo deposition]
 
 ## Author
 
-Md. Tanvir Ahmed
-TEAMS Lab
-Department of Physics
+Md. Tanvir Ahmed  
+TEAMS Lab  
+Department of Physics  
 Pabna University of Science and Technology, Pabna-6600, BD

@@ -136,7 +136,7 @@ This project is released under the MIT License.
 
 ## Author
 
-Tanvir Ahmed
-TEAMS Lab
-Department of Physics
-Pabna University of Science and Technology (PUST)
+Md. Tanvir Ahmed  
+TEAMS Lab  
+Department of Physics  
+Pabna University of Science and Technology, Pabna-6600, Bangladesh

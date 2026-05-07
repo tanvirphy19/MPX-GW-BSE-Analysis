@@ -169,7 +169,7 @@ DOI: [To be added after Zenodo deposition]
 
 ## Author
 
-Md. Tanvir Ahmed
-TEAMS Lab
-Department of Physics
+Md. Tanvir Ahmed  
+TEAMS Lab  
+Department of Physics  
 Pabna University of Science and Technology, Pabna-6600, BD
